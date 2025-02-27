@@ -25,8 +25,8 @@ User will need:
 2. Open it in users own VS Code
 3. When it asks, hit "Reopen in Container"
 4. Create a `.env` file with API key:
-   `OPENAI_API_KEY='sk-fdjJJUSK0Xuz0j1Xexm5WQ'`
-   `OPENAI_BASE_URL=https://api.ai.it.cornell.edu/`
+   `OPENAI_API_KEY=${OPENAI_API_KEY}`
+   `OPENAI_BASE_URL=${OPENAI_BASE_URL}`
 5. Run it in bash or terminal
 `streamlit run rag_app.py`
 6. Check out http://localhost:8501 in browser
