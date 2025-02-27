@@ -1,7 +1,7 @@
 # 📌 INFO-5940: Assignment 1: Development of RAG App 🤖
-# Made by Zhiqian Xu 📝
+# 📝 Made by Zhiqian Xu 🚀
 
-# RAG Chatbot App (rag_app.py)
+# RAG Chatbot App (`rag_app.py`)
 
 Hey there! This is my RAG (Retrieval Augmented Generation) chatbot for INFO-5940 Assignment 1. 
 It allows user to upload documents (PDFs and text files) and chat about them.
@@ -25,10 +25,10 @@ User will need:
 2. Open it in users own VS Code
 3. When it asks, hit "Reopen in Container"
 4. Create a `.env` file with API key:
-   OPENAI_API_KEY='sk-fdjJJUSK0Xuz0j1Xexm5WQ'
-   OPENAI_BASE_URL=https://api.ai.it.cornell.edu/
+   `OPENAI_API_KEY='sk-fdjJJUSK0Xuz0j1Xexm5WQ'`
+   `OPENAI_BASE_URL=https://api.ai.it.cornell.edu/`
 5. Run it in bash or terminal
-streamlit run rag_app.py
+`streamlit run rag_app.py`
 6. Check out http://localhost:8501 in browser
 
 ## How to Use the Chatbot
