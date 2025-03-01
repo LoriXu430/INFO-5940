@@ -27,8 +27,9 @@ User will need:
 4. Create a `.env` file with API key:
    `OPENAI_API_KEY=${OPENAI_API_KEY}`
    `OPENAI_BASE_URL=${OPENAI_BASE_URL}`
-5. Run it in bash or terminal
-`streamlit run rag_app.py`
+5. Run it in Windows Powershell
+Rember to `cd INFO-5940`
+Then Run `python -m streamlit run rag_app.py`
 6. Check out http://localhost:8501 in browser
 
 ## How to Use the Chatbot
